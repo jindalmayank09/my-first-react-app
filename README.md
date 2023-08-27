@@ -7,4 +7,13 @@
 
 
 
-npm install
+**npm install**
+
+
+**npm start**
+
+
+# for production run
+
+
+**npm build run**
